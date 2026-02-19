@@ -2,12 +2,8 @@
 <table border="1" cellpadding="12" cellspacing="0" width="100%" align="center">
   <tr>
     <td align="center">
-      <img 
-        src="https://github.com/shriram7057/shriram7057/blob/main/Python.gif?raw=true"
-        width="280"
-        alt="Python Animation"
-      />
-      <h1>🐍 Python Projects Collection</h1>
+        <img src="https://skillicons.dev/icons?i=python" width="150"/>
+      <h1>🐍 Python Projects Collection⚡</h1>
       <p>
         A curated collection of <b>Python projects</b> demonstrating
         <b>core programming concepts</b>, <b>automation</b>, and
